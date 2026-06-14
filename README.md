@@ -24,7 +24,7 @@ That's why I love creating things that make a difference and leave a lasting imp
 - I'm a **Computer Student** from Tabriz, Iran 
 - **Front End Developer** passionate about modern web technologies
 - Currently focused on: **React · Next.js · TypeScript · Tailwind CSS**
-- Learning something new about my field every day ⏳
+- Learning something new about my field every day
 - Love turning ideas into reality through code
 - Ask me about **JavaScript, React, Next.js, or Front End Development**
 - How to reach me: [Telegram](https://t.me/mmd_qm_78) or [Instagram](https://www.instagram.com/mmd_78_pv)
@@ -38,7 +38,7 @@ That's why I love creating things that make a difference and leave a lasting imp
 
 <p>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <!-- <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> -->
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
@@ -86,10 +86,10 @@ That's why I love creating things that make a difference and leave a lasting imp
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
             <br>JavaScript
         </td>
-        <!-- <td align="center" width="90">
+        <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript" />
             <br>TypeScript
-        </td> -->
+        </td>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
             <br>Tailwind
