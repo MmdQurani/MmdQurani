@@ -15,7 +15,7 @@
 
 I am a **Front End Developer** from Tabriz, Iran 🇮🇷. I'm passionate about building beautiful, responsive, and high-performance web applications. As a computer student, I'm constantly learning and improving my skills every day.
 
-That's why I love creating things that make a difference and leave a lasting impact. 💻✨
+That's why I love creating things that make a difference and leave a lasting impact.
 
 <img align="right" alt="Coding GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
