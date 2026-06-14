@@ -132,10 +132,10 @@ That's why I love creating things that make a difference and leave a lasting imp
             <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" />
             <br>Vercel
         </td>
-        <td align="center" width="90">
+        <!-- <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=netlify" width="45" height="45" alt="Netlify" />
             <br>Netlify
-        </td>
+        </td> -->
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="npm" />
             <br>npm
