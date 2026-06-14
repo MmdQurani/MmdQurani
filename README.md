@@ -7,7 +7,7 @@
 </div>
 
 <p>
-  <a href="https://www.instagram.com/mmd_78_pv"><img src="https://skillicons.dev/icons?i=instagram" height="32"/></a>
+  <!-- <a href="https://www.instagram.com/mmd_78_pv"><img src="https://skillicons.dev/icons?i=instagram" height="32"/></a> -->
   <!-- <a href="https://t.me/mmd_qm_78"><img src="https://skillicons.dev/icons?i=telegram" height="32"/></a> -->
   <a href="https://github.com/MmdQurani"><img src="https://skillicons.dev/icons?i=github" height="32"/></a>
   <a href="https://www.linkedin.com/in/mohammad-qurani-07m"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
