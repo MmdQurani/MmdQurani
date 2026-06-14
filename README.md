@@ -27,7 +27,7 @@ That's why I love creating things that make a difference and leave a lasting imp
 - Learning something new about my field every day
 - Love turning ideas into reality through code
 - Ask me about **JavaScript, React, Next.js, or Front End Development**
-- How to reach me: [Telegram](https://t.me/mmd_qm_78) or [Instagram](https://www.instagram.com/mmd_78_pv)
+- How to reach me: [Linkedin](https://www.linkedin.com/in/mohammad-qurani-07m) or [Telegram](https://t.me/mmd_qm_78)
 - Fun fact: I started my coding journey with HTML and CSS, and now I'm building amazing web experiences!
 
 ---
